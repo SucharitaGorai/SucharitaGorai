@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/SucharitaGorai/SucharitaGorai/main/banner.png" alt="banner" width="100%" />
+<img src="https://github.com/SucharitaGorai/SucharitaGorai/blob/main/Sucharita%20Gorai.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Sucharita Gorai</h1>
 <h3 align="center">🌟 Passionate Developer | 🌐 IoT | 💾 SQL | 📍 India</h3>
 
